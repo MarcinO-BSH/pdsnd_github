@@ -19,3 +19,6 @@ https://peps.python.org/
 https://www.hackerrank.com/domains/python/
 https://www.programiz.com/python-programming/
 
+### Log of updates and revisions
+Rev: 0.1
+
